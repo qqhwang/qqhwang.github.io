@@ -1,17 +1,7 @@
 <footer class="g-footer">
   <section>
-<script>
-  var xhr = new XMLHttpRequest();
-  xhr.open('get', 'https://v1.hitokoto.cn');
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4) {
-      var data = JSON.parse(xhr.responseText);
-      var hitokoto = document.getElementById('hitokoto');
-      hitokoto.innerText = data.hitokoto;
-    }
-  }
-  xhr.send();
-</script>
+ <script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script>
+    <div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
   </section>
   <section>{{ site.title }} ©
   {% assign current = "now" | date: "%Y" | plus: 0%}
