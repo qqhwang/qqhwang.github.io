@@ -12,8 +12,9 @@ tag: HelloWorld
 ## 一站式账号管理
 
 啊，在网上注册过的账号太多，所以借助这个网站管理一下，以便实现账号的统一。
+
 ## 一个秘密的地方
 
 …反正没人知道这个网站，我在这里为所欲为也可以…
 
-> <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
+> Hello world!
