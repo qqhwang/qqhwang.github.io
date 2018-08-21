@@ -5,6 +5,7 @@ tag: HelloWorld
 ---
 
  ## 保持文明
+ 
 We’re going to get into the thick of a lot of heated discussions and that’s okay. These discussions often entail topics that we all personally care a lot about and will passionately defend. But in order for discussions to thrive here, we need to remember to **criticize ideas, not people.**
  
 So, remember to avoid:
