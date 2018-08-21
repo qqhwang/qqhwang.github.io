@@ -1,6 +1,6 @@
  ---
  layout: post
- title: Comment Policy
+ title: 'Comment Policy'
  tag: HelloWorld
  ---
  
