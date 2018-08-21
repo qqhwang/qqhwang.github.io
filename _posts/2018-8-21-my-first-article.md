@@ -2,6 +2,7 @@
 layout: post
 title: '我的第一篇文章'
 tag: HelloWorld
+comments: true
 ---
 
 ## 给我自己导航
