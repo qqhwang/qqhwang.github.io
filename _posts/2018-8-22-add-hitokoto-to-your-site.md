@@ -17,12 +17,16 @@ tag:  site
 他们的自我介绍：
 
 > 一言网(Hitokoto.cn)创立于2016年，隶属于萌创Team，目前网站主要提供一句话服务。 
+
 > 动漫也好、小说也好、网络也好，不论在哪里，我们总会看到有那么一两个句子能穿透你的心。我们把这些句子汇聚起来，形成一言网络，以传递更多的感动。如果可以，我们希望我们没有停止服务的那一天。
+
 > 简单来说，一言指的就是一句话，可以是动漫中的台词，也可以是网络上的各种小段子。
+
 > 或是感动，或是开心，有或是单纯的回忆。来到这里，留下你所喜欢的那一句句话，与大家分享，这就是一言存在的目的。
 
 Hitokoto.cn提供了简单易用的api接口，用起来也是十分方便。只需要在需要出现一言的地方添加以下代码就可以了：
 
+```HTML
     <p id="hitokoto">:D 获取中...</p>
     <!-- 兼容低版本浏览器 (包括 IE)，可移除 -->
     <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
@@ -41,12 +45,15 @@ Hitokoto.cn提供了简单易用的api接口，用起来也是十分方便。只
           console.error(err);
         })
     </script>
-    
+```
+
 或者可以使用下面这个更简洁的版本，不过对老式的浏览器可能兼容性更差：
 
+```HTML
     <p id="hitokoto">:D 获取中...</p>
     <script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
-    
+```
+
 具体效果可以看本站底部~
 
 ## 使用lwl12.com提供的api
@@ -58,12 +65,15 @@ Hitokoto.cn提供了简单易用的api接口，用起来也是十分方便。只
 
 下面是他们的api：
 
+```HTML
     <script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script><div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
+```
 
 另外他们还有Android app：[一言](https://www.coolapk.com/apk/com.hitokoto)
+
 具体要使用谁的api就看你的喜好了。
 
 ## 更高级的用法
 请看他们的文档说明：
-[https://hitokoto.cn/api](https://hitokoto.cn/api)
-[https://blog.lwl12.com/read/hitokoto-api.html](https://blog.lwl12.com/read/hitokoto-api.html)
+- [https://hitokoto.cn/api](https://hitokoto.cn/api)
+- [https://blog.lwl12.com/read/hitokoto-api.html](https://blog.lwl12.com/read/hitokoto-api.html)
