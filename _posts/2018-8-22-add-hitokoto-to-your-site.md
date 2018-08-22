@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '使用一言为你的网站底部添加随机的一句话'
-tag: 
+tag:  site
 ---
 
 ## 一言简介
