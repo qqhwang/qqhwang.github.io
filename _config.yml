@@ -11,6 +11,8 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  rss: '/rss'
+  留言: 'https://markcn1818.wordpress.com/'
   starlinks: '/starlinks/'
   
 # Footer
