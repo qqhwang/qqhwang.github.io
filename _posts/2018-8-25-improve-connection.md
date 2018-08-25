@@ -17,7 +17,7 @@ chmod +x tcp.sh
 
 TCP加速 一键安装管理脚本
 
-  -- 就是爱生活 | 94ish.me --  
+ 就是爱生活 | 94ish.me   
 
 升级脚本
 
