@@ -9,11 +9,11 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  主页: '/'
+  标签: '/tags.html'
+  留言: '/2018/08/21/comment.html'
+  链接: '/2018/08/21/links.html'
   rss: '/rss'
-  留言: 'https://markcn1818.wordpress.com/'
-  starlinks: '/starlinks/'
   
 # Footer
 footer:
