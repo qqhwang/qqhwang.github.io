@@ -20,6 +20,6 @@ tag: HelloWorld
 
 本文同样发表在天使动漫论坛【第一届文学大赛】【惊蛰】
 
-![得分情况](https://www.tsdm.live/forum.php?mod=viewthread&tid=988721&extra=page%3D1)
+[得分情况](https://www.tsdm.live/forum.php?mod=viewthread&tid=988721&extra=page%3D1)
 
-![参赛帖子](https://www.tsdm.live/forum.php?mod=viewthread&tid=985398)
+[参赛帖子](https://www.tsdm.live/forum.php?mod=viewthread&tid=985398)
