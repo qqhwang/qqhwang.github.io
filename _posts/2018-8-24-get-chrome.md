@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '获取Chrome最新版离线安装包'
-tag: site
+tag: 2018
 ---
 目前[https://www.google.cn/chrome/](https://www.google.cn/chrome/)似乎还能访问，也能正常下载，但是说不定哪天就会抽风。所以在下面贴出了几个下载Chrome离线包的地址。
 - [https://dream.ren/tool/chrome/](https://dream.ren/tool/chrome/)
