@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '使用一言为你的网站底部添加随机的一句话'
-tag:  site
+title: '使用一言为你的网站底部添加一句随机的话'
+tag: 2018
 ---
 
 ## 一言简介
@@ -14,7 +14,7 @@ tag:  site
 
 ## 使用Hitokoto.cn的api接口
 
-他们的自我介绍：
+Hitokoto.cn的简介：
 
 > 一言网(Hitokoto.cn)创立于2016年，隶属于萌创Team，目前网站主要提供一句话服务。 
 
@@ -58,18 +58,18 @@ Hitokoto.cn提供了简单易用的api接口，用起来也是十分方便。只
 
 ## 使用lwl12.com提供的api
 
-除了Hitokoto.cn，你还可以选择lwl112提供的api（句子有所不同）。
-他们的介绍：
+除了Hitokoto.cn，你还可以选择lwl12提供的api（句子有所不同）。
+lwl12的介绍：
 
 > 相信大家都有或曾经有过自己的摘抄本。「一言」就好似一个公开的摘抄本，我们在此记录那些让人感怀的，让人振奋的，让人感动的，让人一眼就有所感触的短句，并通过公共 API 的形式使你能够在自己的项目中调用它们。我们希望通过一言，链接大家对各方文字的美好记忆，伴你踩碎迷茫，走过时光。
 
-下面是他们的api：
+下面是lwl12的api：
 
 ```HTML
 <script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script><div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
 ```
 
-另外他们还有Android app：[一言](https://www.coolapk.com/apk/com.hitokoto)
+另外lwl12还有Android app：[一言](https://www.coolapk.com/apk/com.hitokoto)
 
 具体要使用谁的api就看你的喜好了。
 
