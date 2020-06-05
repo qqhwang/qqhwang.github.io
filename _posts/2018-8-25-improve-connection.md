@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu'
-tag: site
+tag: 2018
 ---
 这个脚本包含了多种加速工具，能加速ss，十分强大。实测能让vps的速度提升几个数量级。
 
