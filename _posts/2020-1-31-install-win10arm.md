@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 实战！Surface RT安装Windows RT 10
-tag: Windows
+tag: 2020
 ---
 
 2020年了，于2012年6月发布的~~垃圾~~Surface RT还能装上于2015年发布的Windows 10？果然是亲儿子。
