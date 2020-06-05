@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '提示访问者升级浏览器'
-tag: site
+tag: 2018
 ---
 网站上明明有许多漂亮的设计，可是使用低版本浏览器的访问者却看不到，甚至还会看到错位的网站排版。这可怎么办？网上出现了不少的提供浏览器升级的网页，例如Wordpress旗下的browsehappy.com，还有热心网友为它制作了中国版：http://browsehappy.osfipin.com/，不过推荐的是一些国产浏览器。但是个人觉得，做的最好的还是[https://browser-update.org/zh/](https://browser-update.org/zh/)。
 
