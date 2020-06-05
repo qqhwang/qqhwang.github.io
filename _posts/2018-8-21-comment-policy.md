@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '评论准则'
-tag: HelloWorld
+tag: 2018
 ---
 > 注意，此评论准则仅适用于能访问Disqus的用户
 
